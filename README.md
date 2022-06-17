@@ -2,6 +2,7 @@
 ## Install environments
 **Công cụ (Tool):**<br>
 * Viual Studio Code<br>
+* Expo Go
 
 **Ngôn ngữ (Language):**<br>
 * Javascript
